@@ -9,5 +9,5 @@ if(number >=100)
 }
 else
 {
-    Console.WriteLine("Третьей цифры нету");
+    Console.WriteLine("Третьей цифры нет!");
 }
