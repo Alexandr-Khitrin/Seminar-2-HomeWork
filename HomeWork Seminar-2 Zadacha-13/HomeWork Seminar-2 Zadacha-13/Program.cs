@@ -5,7 +5,7 @@ string third_number  = number.ToString();
 
 if(number >=100)
 {
-    Console.WriteLine(third_number[2]);
+    Console.WriteLine($"Третья цифра числа {number} - {third_number[2]}");
 }
 else
 {
